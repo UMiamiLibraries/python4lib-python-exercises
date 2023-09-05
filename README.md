@@ -46,11 +46,6 @@ Throughout this series of exercises, you'll learn:
 
 8. **Share Your Progress**: Sharing your code and progress with others can be a great way to learn and get feedback.
 
-## Exercise List
-
-- [Book Inventory Management](exercise_book_inventory/README.md): Create a simple program to manage your library's book inventory.
-
-- [... (More exercises will be added)](exercise_template/README.md)
 
 ## Contributing
 
@@ -65,7 +60,7 @@ Happy coding, and enjoy your journey into the world of Python programming!
 ---
 
 
-
+## Exercise List
 
 1. **Book Inventory**
     - Create a Python program that allows a librarian to add, edit, and remove books from their library inventory. Use dictionaries to represent book records with attributes like title, author, and publication year.
